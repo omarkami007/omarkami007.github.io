@@ -48,27 +48,24 @@ My complete implementation of assignments and projects in [***CS224n: Natural La
 ---
 ## Data Science
 
-### Credit Risk Prediction Web App
+### Realtime Bitcoin Analysis & Forecasting using Time Series & Sentiment Analysis
 
-[![Open Web App](https://img.shields.io/badge/Heroku-Open_Web_App-blue?logo=Heroku)](http://credit-risk.herokuapp.com/)
-[![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](https://github.com/chriskhanhtran/credit-risk-prediction/blob/master/documents/Notebook.ipynb)
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/credit-risk-prediction)
+[![Open Web App](https://img.shields.io/badge/Streamlit-Open_Web_App-blue?logo=Streamlit)](https://st-bitcoin-app-007.streamlit.app/)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/omarkami007/st-bitcoin-app/blob/main/test_dash.py)
 
-<div style="text-align: justify">After my team preprocessed a dataset of 10K credit applications and built machine learning models to predict credit default risk, I built an interactive user interface with Streamlit and hosted the web app on Heroku server.</div>
+<div style="text-align: justify">After my team preprocessed the data and developped the models to predict bitcoin price, i developped a sentiment analysis process that includes scraping news articles, analyzing the sentiment (Positive, Negative, Neutral),then I built an interactive user interface with Streamlit and deployed the app on Streamlit Community Cloud</div>
 <br>
-<center><img src="images/credit-risk-webapp.png"/></center>
+<center><img src="images/streamlitbtc.png"/></center>
 <br>
 
 ---
-### Kaggle Competition: Predict Ames House Price using Lasso, Ridge, XGBoost and LightGBM
+### Kaggle Competition: Predict Monthly Citrus Yield in different regions in Morocco
 
 [![Open Notebook](https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter)](projects/ames-house-price.html)
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/chriskhanhtran/kaggle-house-price/blob/master/ames-house-price.ipynb)
 
-<div style="text-align: justify">I performed comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict house prices. My best model had Mean Absolute Error (MAE) of 12293.919, ranking <b>95/15502</b>, approximately <b>top 0.6%</b> in the Kaggle leaderboard.</div>
-<br>
-<center><img src="images/ames-house-price.jpg"/></center>
-<br>
+<div style="text-align: justify">I performed, together with my team, comprehensive EDA to understand important variables, handled missing values, outliers, performed feature engineering, and ensembled machine learning models to predict citrus yield ranking 8 out of 23 teams.</div>
+
 
 ---
 ### Predict Breast Cancer with RF, PCA and SVM using Python
